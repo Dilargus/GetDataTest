@@ -1,0 +1,4 @@
+GetDataTest.MainActivity, GetDataTest;md57a4089bbc65928e7d34f84075c60f8b5.MainActivity
+GetDataTest.MainActivity, GetDataTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57a4089bbc65928e7d34f84075c60f8b5.MainActivity
+GetDataTest.MainActivity;md57a4089bbc65928e7d34f84075c60f8b5.MainActivity
+getdatatest.MainActivity;md57a4089bbc65928e7d34f84075c60f8b5.MainActivity
